@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^1.5.1",
+    "bootstrap": "^5.3.2",
+    "react-data-table-component": "^7.5.4",
+    "reactstrap": "^9.2.0"
+  }
+}
